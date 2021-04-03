@@ -52,6 +52,15 @@ git commit -m "Commit Joao Silva"
 ```
 git push origin joaosilva_1234
 ```
+<b> OU FAZENDO DIRETAMENTE PELO GIT</b>
+
+![images](images/addfile.png)
+
+![images](images/addfile1.png)
+
+![images](images/addfile2.png)
+
+
 
 Agora o aluno deverá solicitar o pull request para a master
 
