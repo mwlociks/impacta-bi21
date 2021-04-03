@@ -1,19 +1,21 @@
 # impacta-bi21
 
-## Exercício 01
+## Exercício 01 - Individual
 
-Objetivo do curso é fazer com que a turma consiga trabalhar no mesmo projeto no GitHub
+Objetivo do exercício é fazer com que a turma consiga trabalhar no mesmo projeto no GitHub.
 
-Foi desenvolvido um script em Python [bi21.py](bi21.py) que irá ler os arquivos que estarão no diretório [grupos](grupos) e irá printar na tela o nome, ra e grupo dos alunos.
+Foi desenvolvido um script em Python [bi21.py](bi21.py) que irá ler os arquivos que estarão no diretório [grupos](grupos) e irá printar na tela o nome, ra e grupo dos alunos. 
+
+<b>A nota e presença será dada SOMENTE se o aluno estiver na lista.</b>
 
 Com base nesse print os alunos receberão as notas.
 
-Cada grupo deverá criar sua propria branch com o nome do grupo EX: "grupo1" um arquivo com o nome do grupo com o seguinte nome "grupo1.txt" e com o layout de um csv como no exemplo abaixo
-
-* Cada aluno deverá criar sua branch com o nome_ra . EX: joaosilva_1234,mariaduarte_4221,josepassos_12345
+* <b>Cada aluno deverá criar sua branch com o nome_ra.
+  
+    EX: joaosilva_1234,mariaduarte_4221,josepassos_12345 </b>
 ```
 git clone https://github.com/danilosousadba/impacta-bi21.git
-git branch -b joaosilva_1234
+git checkout -b joaosilva_1234
 ```
 OU DIRETAMENTE PELO SITE
 
@@ -53,6 +55,8 @@ git push origin joaosilva_1234
 
 Agora o aluno deverá solicitar o pull request para a master
 
-![images](images/pullrequest.png)
-
 ![images](images/newpullrequest.png)
+
+![images](images/newpullrequest1.png)
+
+![images](images/newpullrequest2.png)
