@@ -2,13 +2,13 @@
 
 ## Exercício 01 - Individual
 
-Objetivo do exercício é fazer com que a turma consiga trabalhar no mesmo projeto no GitHub.
+Objetivo do exercício é fazer com que a turma consiga trabalhar no mesmo repositório no GitHub.
 
-Foi desenvolvido um script em Python [bi21.py](bi21.py) que irá ler os arquivos que estarão no diretório [grupos](grupos) e irá printar na tela o nome, ra e grupo dos alunos. 
+Foi desenvolvido um script em Python [bi21.py](bi21.py) que irá gerar uma lista dos alunos para que recebam a nota e presença. Os arquivos deverão ser gravados no diretório [grupos](grupos) com o conteúdo "nome", "ra" e "grupo dos alunos. 
 
 <b>A nota e presença será dada SOMENTE se o aluno estiver na lista.</b>
 
-Com base nesse print os alunos receberão as notas.
+Com base nesta lista os alunos receberão as notas e presenças.
 
 * <b>Cada aluno deverá criar sua branch com o nome_ra.
   
