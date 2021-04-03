@@ -17,17 +17,19 @@ Com base nesse print os alunos receberão as notas.
 git clone https://github.com/danilosousadba/impacta-bi21.git
 git checkout -b joaosilva_1234
 ```
-OU DIRETAMENTE PELO SITE
+<b>OU DIRETAMENTE PELO SITE</b>
 
 ![images](images/newbranch.png)
   
   
-* Cada aluno deverá criar um arquivo com o nome com a extensão txt. Ex. joaosilva.txt, mariaduarte.txt, josepassos.txt" com as informações "nome","ra","grupo" conforme exemplo abaixo
+* <b>Cada aluno deverá criar um arquivo contendo seu nome,ra e grupo com a extensão txt.</b> 
+
+  Ex. joaosilva_1234.txt, mariaduarte_4321.txt, josepassos_12345.txt" com as informações "nome","ra","grupo" conforme exemplo abaixo
 
 joaosilva.txt
 ```
 nome,ra,grupo
-joaosilva,1234,1
+Joao Silva,1234,1
 ```
 
 ```
@@ -62,7 +64,7 @@ git push origin joaosilva_1234
 
 
 
-Agora o aluno deverá solicitar o pull request para a master
+* <b>Agora o aluno deverá solicitar o pull request para a master.</b>
 
 ![images](images/newpullrequest.png)
 
