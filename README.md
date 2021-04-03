@@ -29,18 +29,30 @@ joaosilva,1234,1
 ```
 
 ```
-
+git status
+```
+<i>resultado</i>
+```
+On branch joaosilva_1234
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        grupos/joaosilva_1234.txt
 ```
 
 
-mariaduarte.txt
 ```
-nome,ra,grupo
-mariaduarte,1234,1
+git add grupos/joaosilva_1234.txt
 ```
 
-josepassos.txt
 ```
-nome,ra,grupo
-josepassos,12345,2
+git commit -m "Commit Joao Silva"
 ```
+```
+git push origin joaosilva_1234
+```
+
+Agora o aluno deverá solicitar o pull request para a master
+
+![images](images/pullrequest.png)
+
+![images](images/newpullrequest.png)
