@@ -1,0 +1,5 @@
+nome,ra,grupo
+joao,123455,1
+maria,54321,1
+joao,123455,1
+joao,123455,1

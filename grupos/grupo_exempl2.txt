@@ -1,0 +1,3 @@
+nome,ra,grupo
+carlos,123455,2
+antonio,54321,2
