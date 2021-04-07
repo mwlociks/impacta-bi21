@@ -1,0 +1,2 @@
+nome,ra,grupo
+Anderson,1903880,1
