@@ -1,2 +1,2 @@
-nome, ra, grupo
-Kaique Vitiello, 1904280 , 0
+nome,ra,grupo
+Kaique Vitiello,1904280,0

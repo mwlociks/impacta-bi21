@@ -1,2 +1,2 @@
-nome, ra, grupo
-Laís Fernandes, 1904347, 1
+nome,ra,grupo
+Laís Fernandes,1904347,1

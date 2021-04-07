@@ -1,2 +1,2 @@
-nome, ra, grupo
-ana carolina porangaba garcia, 1904319, 0
+nome,ra,grupo
+ana carolina porangaba garcia,1904319,0
