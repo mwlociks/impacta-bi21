@@ -1,2 +1,0 @@
-nome,ra,grupo
-Joao Silva, 1234, 1
