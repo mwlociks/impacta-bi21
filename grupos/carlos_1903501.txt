@@ -1,0 +1,2 @@
+nome,ra,grupo
+Carlos Garcia, 1903501, 1
