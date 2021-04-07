@@ -1,0 +1,2 @@
+nome,ra,grupo
+Victor Bazzo,13584803,1
