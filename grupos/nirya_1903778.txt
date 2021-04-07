@@ -1,0 +1,2 @@
+nome,ra,grupo
+Nirya Giaquinto, 1903778, 1
