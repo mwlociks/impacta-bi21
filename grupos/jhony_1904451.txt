@@ -1,1 +1,2 @@
-jhony_1904451
+nome, ra, grupo
+jhony, 1904451, 10
