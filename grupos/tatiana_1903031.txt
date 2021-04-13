@@ -1,0 +1,2 @@
+nome,ra,grupo
+tatiana,1903031,1
